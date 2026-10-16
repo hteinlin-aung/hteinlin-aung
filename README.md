@@ -2,7 +2,7 @@
 
 BSc Information Technology, Stamford International University, Bangkok —
 coursework completed, graduating December 2026. Software development intern at
-NK Software House, working on React frontends and REST API integration.
+NK Software House, working on React frontends, REST API integration and Agent building.
 
 I'm looking for a junior **developer / frontend** role in Bangkok.
 
@@ -12,28 +12,7 @@ I'm looking for a junior **developer / frontend** role in Bangkok.
 
 ### What I've built
 
-**[Stockroom](https://github.com/hteinlin-aung/stockroom)** — own project, inventory and
-stock management, designed and built solo.
-React 19 · Vite · MUI · Express · SQLite ·
-[live demo](https://stockroom-hteinlin.netlify.app)
-
-**[KBS IMPEX POS](https://github.com/hteinlin-aung/kbs-impex-casestudy)** —
-case study of the point-of-sale platform I worked on at NK Software House.
-I owned the Dashboard, Warehouse Management, Warehouse Transfer and Reports
-modules, plus the app's routing and layout shell. Write-up only — the source
-belongs to the client.
-
-**[MM NovaCity](https://github.com/hteinlin-aung/mmnovacity-casestudy)** —
-case study of my work on a live commercial real estate site
-([mmnovacity.com](https://mmnovacity.com)). Contact page and shared navigation.
-
-**[TreeO Shop](https://github.com/hteinlin-aung/treeo-shop)** — university
-final project: a PHP and MySQL plant shop with no framework. The README
-includes what I'd do differently now.
-
-**[Credit Card Manager](https://github.com/hteinlin-aung/credit-card-manager)** —
-Java and Swing desktop application: card locking, spending limits, suspension
-and installment plans. Eight classes, built around encapsulated state.
+See in my repo **[Repository](https://github.com/hteinlin-aung?tab=repositories)** 
 
 ---
 
