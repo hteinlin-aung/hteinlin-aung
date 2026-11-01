@@ -35,4 +35,4 @@ Longer term I'm heading towards AI engineering.
 ### Reach me
 
 [LinkedIn](https://www.linkedin.com/in/htainlin-aung-9a7ba7272/) ·
-[hteinlin1124@gmail.com](mailto:hteinlin1124@gmail.com)
+[hteinlin1124@gmail.com](mailto:htein.ang@gmail.com)
